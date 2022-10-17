@@ -1,0 +1,3 @@
+﻿  4.27.c
+c:\users\aa097\onedrive\桌面\程式設計\hw-2\code\4.27\4.27\4.27\4.27.c(12): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  4.27.vcxproj -> C:\Users\Aa097\OneDrive\桌面\程式設計\HW-2\code\4.27\4.27\Debug\4.27.exe
